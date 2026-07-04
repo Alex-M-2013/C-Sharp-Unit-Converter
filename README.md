@@ -6,4 +6,4 @@ This is one of my first C# projects so the code is probably very inefficient and
 - Checks if the user entered a valid number
 - Asks if user wants to reset the program at end the of the program
 
-To try it yourself, simply go to the [releases](https://github.com/Alex-M-2013/) section and download and run the .exe file.
+To try it yourself, simply go to the [releases](https://github.com/Alex-M-2013/C-Sharp-Unit-Converter/releases/latest) section and download and run the .exe file.
